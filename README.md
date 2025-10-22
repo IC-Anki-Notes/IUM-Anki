@@ -37,6 +37,13 @@ The deck is organized into three major sections:
 3. **Review Regularly**: Use spaced repetition to reinforce understanding.
 4. **Customize**: Add your own examples or modify cards as needed.
 
+## How to Contribute
+
+1. **Import the .apkg File**: Import the `.apkg` file into Anki.
+2. **Make Changes to Flashcards**: Make changes to the flashcards.
+3. **Export the .apkg File**: Export the edited `.apkg` file to the directory.
+4. **Commit the Edited .apkg File to the Git Repo:** Add, commit, and push your edited `.apkg` file.
+
 ## 📝 License
 
 This deck is released under the **GNU General Public License v3.0 (GPLv3)**.  

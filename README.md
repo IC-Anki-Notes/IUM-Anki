@@ -1,3 +1,5 @@
+<img src='img/ium.png' style='width: 100%'><br><hr>
+
 # IUM Anki Flashcard Deck
 
 An Anki flashcard deck for **Introduction to University Mathematics (MATH40001/40009)** at **Imperial College London**.

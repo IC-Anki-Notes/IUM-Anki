@@ -44,6 +44,12 @@ The deck is organized into three major sections:
 3. **Export the .apkg File**: Export the edited `.apkg` file to the directory.
 4. **Commit the Edited .apkg File to the Git Repo:** Add, commit, and push your edited `.apkg` file.
 
+## Notice
+
+1. The contributors to this flashcard deck are in no way responsible.
+2. This flashcard deck is not produced nor endorsed by the Department of Mathematics, Imperial College London.
+3. Our work is original; the content does not originate from copyrighted sources.
+
 ## 📝 License
 
 This deck is released under the **GNU General Public License v3.0 (GPLv3)**.  

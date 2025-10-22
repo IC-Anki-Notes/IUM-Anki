@@ -46,7 +46,7 @@ The deck is organized into three major sections:
 
 ## Notice
 
-1. The contributors to this flashcard deck are in no way responsible.
+1. The contributors to this flashcard deck are in no way responsible for its accuracy.
 2. This flashcard deck is not produced nor endorsed by the Department of Mathematics, Imperial College London.
 3. Our work is original; the content does not originate from copyrighted sources.
 
